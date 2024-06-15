@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Author: Anonymous
-Email: Anonymous
+Author: Kevin Maggi
+Email: kevin.maggi@unifi.it / kevin.maggi@edu.unifi.it
 
 This script allows to query GitHub to find all the repo corresponding to one or more query, deleting the duplicate.
 """
