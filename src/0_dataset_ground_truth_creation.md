@@ -1,8 +1,8 @@
 # Filter MSA with ground truth
 
-> Author: Anonymous
+> Author: Kevin Maggi
 > 
-> Email: Anonimous
+> Email: kevin.maggi@unifi.it / kevin.maggi@edu.unifi.it
 
 Starting from [this dataset of MSA application from Rahman et al.](https://github.com/davidetaibi/Microservices_Project_List),
 the repos has been filtered keeping only those with a ground truth on the microservices, i.e. those that have a list of
