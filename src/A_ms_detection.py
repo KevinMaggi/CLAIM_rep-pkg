@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Author: Anonymous
-Email: Anonymous
+Author: Kevin Maggi
+Email: kevin.maggi@unifi.it / kevin.maggi@edu.unifi.it
 
 This script allows to find the list of microservices in every commit, grouped by consecutive commits with same list, so
 it is easy to identify the commits that have touched the microservices list.
