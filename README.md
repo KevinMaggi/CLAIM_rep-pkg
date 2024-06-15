@@ -5,7 +5,7 @@ in Dockerized Environments, in: 28th International Conference on Evaluation and 
 (EASE 2024)
 > Kevin Maggi, Roberto Verdecchia, Leonardo Scommegna, and Enrico Vicario. 2024.
 > CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments.
-> In *28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024), June 18–21, 2024, Salerno, Italy.*
+> In *28th International Conference on Evaluation and Assessment in Software Engineering (EASE '24), June 18–21, 2024, Salerno, Italy.*
 
 It contains an implementation of CLAIM tool and all the material required for replicating the study, including: 
 implementation of CLAIM, scripts for defining datasets, script to conduct experiment, raw data and final results.
