@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Author: Anonymous
-Email: Anonymous
+Author: Kevin Maggi
+Email: kevin.maggi@unifi.it / kevin.maggi@edu.unifi.it
 
 This script allows to find the list of docker-compose files in every commit and the chosen one, grouped by consecutive
 commits with same list, so it is easy to identify the commits that have touched the position/name of docker-compose
