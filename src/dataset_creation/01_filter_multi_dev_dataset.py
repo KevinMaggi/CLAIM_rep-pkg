@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Author: Anonymous
-Email: Anonymous
+Author: Kevin Maggi
+Email: kevin.maggi@unifi.it / kevin.maggi@edu.unifi.it
 
 This script allows to select the multi-dev repos (counting anonymous ones and bots).
 """
