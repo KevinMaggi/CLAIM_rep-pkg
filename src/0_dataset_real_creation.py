@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Author: Anonymous
-Email: Anonymous
+Author: Kevin Maggi
+Email: kevin.maggi@unifi.it / kevin.maggi@edu.unifi.it
 
 This script executes all the steps of dataset creation, from the query execution on GitHub, to the final dataset through
 all the filtering steps. Some of them are manual, so the script waits for your signal to proceed to the next step.
