@@ -1,8 +1,8 @@
 # Filter real MSA or industrial MSA demo
 
-> Author: Anonymous
-> 
-> Email: Anonymous
+> Author: Kevin Maggi
+>
+> Email: kevin.maggi@unifi.it / kevin.maggi@edu.unifi.it
 
 In this filtering step all the repos have been inspected manually in order to only those that contains real MSA
 applications or industrial MSA demo. In this classification are included:
